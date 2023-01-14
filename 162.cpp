@@ -9,5 +9,5 @@ typedef pair<int, int> ii;
 typedef vector<ii> vii;
 typedef vector<int> vi;
 int main(){
-    
+    cout<<"Hello"<<"\n";
 }
